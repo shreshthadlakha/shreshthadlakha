@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br><br>Nice meeting you, I'm Shreshth Adlakha!<br><br>🔭 I’m currently freelancing<br>💬 Ask me about Statistics, Mathematics and Data.<br>📫 How to reach me: Twitter - @shreshthadlakh1, LinkedIn - @shreshthadlakha<br>😄 Pronouns: He/His<br>⚡ Fun fact: I code for fun and work in Data for a living.
+Hi there 👋<br><br>Nice meeting you, I'm Shreshth!<br><br>🔭 I’m currently freelancing<br>💬 Ask me about Statistics, Mathematics and Data.<br>📫 How to reach me: Twitter - @shreshthadlakh1, LinkedIn - @shreshthadlakha<br>😄 Pronouns: He/His<br>⚡ Fun fact: I code for fun and work in Data for a living.
 
 
 ## 🌐 Socials:
